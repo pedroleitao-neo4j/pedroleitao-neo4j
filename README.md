@@ -5,7 +5,9 @@ Pedro's enterprise implementation patterns for Neo4j. This hub features a curate
 ## Table of Contents
 
 - [Industry Use Cases](#industry-use-cases)
-- [AI Resources & Experiments](#ai-use-cases--experiments)
+    - 🛡️ [Cybersecurity & Risk Management](#️-cybersecurity--risk-management)
+    - 💰 [Financial Services & Fraud](#-financial-services--fraud)
+- [AI Use Cases & Experiments](#ai-use-cases--experiments)
 
 ## Industry Use Cases
 
