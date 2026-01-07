@@ -24,7 +24,7 @@ These repositories demonstrate how graph technology identifies hidden risks and 
 Leveraging Graph Data Science (GDS) to uncover patterns in complex transactional and market data.
 
 * **[Financial Asset Correlator](https://github.com/pedroleitao-neo4j/neo4j-stocks-correlator):** Uses graph algorithms and machine learning to predict correlations between stocks. By treating market movements as a network, it identifies systemic risks and diversification opportunities that traditional time-series analysis might overlook.
-* **[Customer Churn Detection](https://www.google.com/search?q=https://github.com/pedroleitao-neo4j/customer-churn-gds):** A predictive model using **Neo4j Graph Data Science**. Instead of looking at customer behavior in isolation, this project uses community detection and centrality scores to see how "social" or "connected" influence affects customer retention.
+* **[Customer Churn Detection](https://github.com/pedroleitao-neo4j/finance-churn):** A predictive model using **Neo4j Graph Data Science**. Instead of looking at customer behavior in isolation, this project uses community detection and centrality scores to see how "social" or "connected" influence affects customer retention.
 
 ## AI Use Cases & Experiments
 
