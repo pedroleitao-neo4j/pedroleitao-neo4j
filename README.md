@@ -25,7 +25,7 @@ Leveraging Graph Data Science (GDS) to uncover patterns in complex transactional
 
 * **[Financial Asset Correlator](https://github.com/pedroleitao-neo4j/neo4j-stocks-correlator):** Uses graph algorithms and machine learning to predict correlations between stocks. By treating market movements as a network, it identifies systemic risks and diversification opportunities that traditional time-series analysis might overlook.
 * **[Customer Churn Detection](https://github.com/pedroleitao-neo4j/finance-churn):** A predictive model using **Neo4j Graph Data Science**. Instead of looking at customer behavior in isolation, this project uses community detection and centrality scores to see how "social" or "connected" influence affects customer retention.
-* **[Financial Fraud Topologies](https://github.com/pedroleitao-neo4j/finance-ieee-cis-fraud):** Transactional fraud patters explored using a Graph approach, based on the IEEE-CIS Fraud public dataset.
+* **[Financial Fraud Topologies](https://github.com/pedroleitao-neo4j/finance-ieee-cis-fraud):** Transactional fraud patterns explored using a Graph approach, based on the IEEE-CIS Fraud public dataset.
 
 ## AI Use Cases & Experiments
 
