@@ -39,4 +39,4 @@ Neo4j is a perfect data store for insurance use cases, including risk assessment
 
 * **[Named Entity Recognition (NER) with Neo4j and encoder models](https://github.com/pedroleitao-neo4j/ner-econ-research)** for economic research and policy evaluation.
 
-- **Clean Knowledge Graphs [with a Judge Model](https://github.com/pedroleitao-neo4j/canonicalizer)** for LLM based Knowledge Graph construction, where facts matters most.
+- **[Clean Knowledge Graphs with a Judge Model](https://github.com/pedroleitao-neo4j/canonicalizer)** for LLM based Knowledge Graph construction, where facts matters most.
