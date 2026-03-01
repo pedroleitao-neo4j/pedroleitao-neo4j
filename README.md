@@ -8,6 +8,7 @@ Pedro's enterprise implementation patterns for Neo4j. This hub features a curate
     - [Cybersecurity & Risk Management](#️-cybersecurity--risk-management)
     - [Financial Services & Fraud](#-financial-services--fraud)
     - [Insurance](#-insurance)
+    - [Legal](#-legal)
 - [AI Use Cases & Experiments](#ai-use-cases--experiments)
 
 ## Industry Use Cases
@@ -34,6 +35,10 @@ Leveraging Graph Data Science (GDS) to uncover patterns in complex transactional
 Neo4j is a perfect data store for insurance use cases, including risk assessment, risk management, and customer 360.
 
 * **[Insurance & Natural Disasters Knowledge Graph](https://github.com/pedroleitao-neo4j/insurance-geo-analytics)**: A knowledge graph that combines natural disaster data with insurance metrics to identify patterns and risks.
+
+### Legal
+
+* **[Legal Knowledge Graph](https://github.com/pedroleitao-neo4j/legal-legislation-explorer)**: A knowledge graph that models complex legislation and legal relationships.
 
 ## AI Use Cases & Experiments
 
