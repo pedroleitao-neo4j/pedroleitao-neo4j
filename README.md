@@ -41,7 +41,7 @@ Neo4j is a perfect data store for insurance use cases, including risk assessment
 
 * **[Legal Knowledge Graph](https://github.com/pedroleitao-neo4j/legal-legislation-explorer)**: A knowledge graph that models complex legislation and legal relationships.
 
-### Customer-360
+### Customer-360
 
 * **[Telecom & Subscriber Services](https://github.com/pedroleitao-neo4j/customer360-churn)**: A knowledge graph that models telecom & subscription services customer data to provide a 360-degree view of subscribers.
 
