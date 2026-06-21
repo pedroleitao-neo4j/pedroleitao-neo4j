@@ -22,6 +22,7 @@ These repositories demonstrate how graph technology identifies hidden risks and 
 * **[Attack Path Analysis (APA)](https://github.com/pedroleitao-neo4j/cyber-apa):** Building on the VPEM model, this project implements graph traversal algorithms to simulate how an attacker might move laterally through a network, identifying "choke points" for proactive defense.
 * **[Software Supply Chain Security (SBOM)](https://github.com/pedroleitao-neo4j/cyber-sbom):** An implementation of Software Bill of Materials in a graph. It allows for instant impact analysis when a specific library version (like Log4j) is flagged, tracing its usage across the entire enterprise software ecosystem.
 * **[Better Intrusion Detection with Graphs and Neo4j](https://github.com/pedroleitao-neo4j/cyber-cic):** Intrusion Detection is the first line of defence, make it better with graphs and Neo4j.
+* **[Better Outage Prediction with Graphs in Neo4j](https://github.com/pedroleitao-neo4j/telco-network-outages)**: This project demonstrates how graph-based techniques can sharpen disruption analysis and severity prediction on a telecommunications network.
 
 ### Financial Services & Fraud
 
