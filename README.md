@@ -10,6 +10,7 @@ Pedro's enterprise implementation patterns for Neo4j. This hub features a curate
     - [Insurance](#-insurance)
     - [Legal](#-legal)
     - [Customer 360](#-customer-360)
+    - [Analytics & Research](#-analytics)
 - [AI Use Cases & Experiments](#ai-use-cases--experiments)
 
 ## Industry Use Cases
@@ -30,6 +31,7 @@ Leveraging Graph Data Science (GDS) to uncover patterns in complex transactional
 * **[Customer Churn Detection](https://github.com/pedroleitao-neo4j/finance-churn):** A predictive model using **Neo4j Graph Data Science**. Instead of looking at customer behavior in isolation, this project uses community detection and centrality scores to see how "social" or "connected" influence affects customer retention.
 * **[Financial Fraud Topologies](https://github.com/pedroleitao-neo4j/finance-ieee-cis-fraud):** Transactional fraud patterns explored using a Graph approach, based on the IEEE-CIS Fraud public dataset.
 * **[UBO and KYC Use Cases](https://github.com/pedroleitao-neo4j/finance-kyc-psc):** Ultimate Beneficial Owner and Know Your Customer patterns using UK Companies Data.
+* **[Point-of-Origin Analysis](https://github.com/pedroleitao-neo4j/finance-point-of-origin):** Fraud starts somewhere, navigating through the network to identify the initial points of compromise with Common Point of Purchase (CPP) analysis.
 
 ### Insurance
 
@@ -39,11 +41,15 @@ Neo4j is a perfect data store for insurance use cases, including risk assessment
 
 ### Legal
 
-* **[Legal Knowledge Graph](https://github.com/pedroleitao-neo4j/legal-legislation-explorer)**: A knowledge graph that models complex legislation and legal relationships.
+* **[Legal Knowledge Graph](https://github.com/pedroleitao-neo4j/legal-legislation-explorer):** A knowledge graph that models complex legislation and legal relationships.
 
 ### Customer-360
 
-* **[Telecom & Subscriber Services](https://github.com/pedroleitao-neo4j/customer360-churn)**: A knowledge graph that models telecom & subscription services customer data to provide a 360-degree view of subscribers.
+* **[Telecom & Subscriber Services](https://github.com/pedroleitao-neo4j/customer360-churn):** A knowledge graph that models telecom & subscription services customer data to provide a 360-degree view of subscribers.
+
+### Analytics & Research
+
+* **[Trade Intelligence Knowledge Graph](https://github.com/pedroleitao-neo4j/trade-baci):** How Neo4j can serve as an operational graph for trade-intelligence, supply-chain strategy and economic analysis.
 
 ## AI Use Cases & Experiments
 
