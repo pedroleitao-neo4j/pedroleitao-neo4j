@@ -25,6 +25,7 @@ These repositories demonstrate how graph technology identifies hidden risks and 
 * **[Software Supply-Chain Dependency Mapping with Neo4j](https://github.com/pedroleitao-neo4j/cyber-software-dependency-mapping)**: This project models a software dependency ecosystem as a property graph in Neo4j and uses it to answer questions directly: What is the blast radius of a compromised package? Which dependencies are load-bearing single points of failure? What is being actively exploited right now? What licensing obligations are we inheriting without knowing it?
 * **[Better Intrusion Detection with Graphs and Neo4j](https://github.com/pedroleitao-neo4j/cyber-cic):** Intrusion Detection is the first line of defence, make it better with graphs and Neo4j.
 * **[Better Outage Prediction with Graphs in Neo4j](https://github.com/pedroleitao-neo4j/telco-network-outages)**: This project demonstrates how graph-based techniques can sharpen disruption analysis and severity prediction on a telecommunications network.
+* **[A CFIHOS 2.0 Knowledge Graph for Cybersecurity in Oil & Gas](https://github.com/pedroleitao-neo4j/ot-cyber-cfihos20):** A knowledge graph that integrates cybersecurity data within the oil & gas industry context.
 
 ### Financial Services & Fraud
 
